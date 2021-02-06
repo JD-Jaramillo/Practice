@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 20px;
+    padding: 20px;
+}
+
+.images {
+    background-color: aqua;
+    display: flex;
+    color: blueviolet;
+}
+
+.images a {
+    flex-direction: column;
+}
